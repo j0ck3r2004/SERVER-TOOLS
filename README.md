@@ -6,7 +6,7 @@ FUNCTIONS:
 - 2) Start chat server
 - 3) Send data to selected server
 # FEATURES
-IP blocking to prevent DDOS attacks
+- IP blocking to prevent DDOS attacks
 # CONFIG
 open config/conf.ini
 change block IPs
