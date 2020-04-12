@@ -1,0 +1,62 @@
+<html>
+	<body background='photo.jpg'>
+	</body>
+	<style>
+		.log{
+			background: #5d8ffc;
+			color: #ff;
+			border: 10px;
+			font-size: 15px;
+			padding: 15px 30px;
+			border-radius: 8px;
+			position: absolute;
+			left: 43%;
+			top: 55%;		
+		}
+		.username{
+			position: absolute;
+			padding: 15px 30px;
+			left: 38%;
+			top: 35%;
+			border-radius: 6px;
+		}
+		.password{
+			position: absolute;
+			padding: 15px 30px;
+			left: 38%;
+			top: 45%;
+			border-radius: 6px;
+		}
+		.lbl1{
+			position: absolute;
+			left: 43%;
+			top: 23%;		
+		}
+		.lbl2{
+			position: absolute;
+			font-size: 19px;
+			font-family: Monospace;
+			top: 36%;
+			left: 30%;
+		}
+		.lbl3{
+			position: absolute;
+			font-size: 19px;
+			font-family: Monospace;
+			top: 46%;
+			left: 30%;
+		}
+	</style>
+	<title>
+		LOGIN
+	</title>
+	<h2 class="lbl1">LOGIN</h2>
+	<h1 class='lbl2'>USERNAME</h1>
+	<h1 class='lbl3'>PASSWORD</h1>
+	<input type='password' id='passw' class='password'>
+	<input type='text' id='uname' class='username'>
+	<input type='submit' onclick='check(this.form)' id='logB' class="log" value="LOGIN">
+	<script src='login.js'>
+	</script>
+
+</html>
