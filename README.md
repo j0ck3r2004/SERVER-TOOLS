@@ -11,6 +11,6 @@ Run the setup.bat file and install python 2.7
 #REQUIRMENTS
 None
 #USAGE
-```batch
+```sh
 python server-tools.pyc
 ```
