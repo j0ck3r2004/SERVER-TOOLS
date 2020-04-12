@@ -6,11 +6,11 @@ FUNCTIONS:
 - 2) Start chat server
 - 3) Send data to selected server
 
-#INSTALLATION
+# INSTALLATION
 Run the setup.bat file and install python 2.7
-#REQUIRMENTS
+# REQUIRMENTS
 None
-#USAGE
+# USAGE
 ```sh
 python server-tools.pyc
 ```
