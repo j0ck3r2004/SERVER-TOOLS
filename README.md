@@ -5,7 +5,12 @@ FUNCTIONS:
 - 1) Start http server on localhost
 - 2) Start chat server
 - 3) Send data to selected server
-
+# FEATURES
+IP blocking to prevent DDOS attacks
+# CONFIG
+open config/conf.ini
+change block IPs
+change
 # INSTALLATION
 Run the setup.bat file and install python 2.7
 # REQUIRMENTS
